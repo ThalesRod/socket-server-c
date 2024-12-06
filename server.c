@@ -95,6 +95,6 @@ int main() {
 
     close(socket_fd);
 
-    return 0;
+    return EXIT_SUCCESS;
 }
 
